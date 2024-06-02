@@ -1,0 +1,19 @@
+/* src/components/Dashboard.css */
+
+.dashboard {
+  background-color: #333;
+  color: white;
+  padding: 20px;
+  min-height: 100vh;
+}
+
+.plot-container {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #fff;
+}
